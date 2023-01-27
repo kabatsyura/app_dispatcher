@@ -1,2 +1,14 @@
 # app_dispatcher
-Application for dispatchers which can help to control every vehicle in time.
+
+Приложение которое позволит повысить эффективность работы диспетчеров в транспортной и экспедиторской компании.
+
+## Блок-схема проекта:
+
+![Блок-схема проекта](/images/logic-scheme.png)
+
+## UI-приложения:
+
+1. [Авторизация пользователя;](/md-files/auth.md)
+2. [Регистрация пользователя;](/md-files/registration.md)
+3. [Форма для зарегистрированных водителей;](/md-files/app_drivers.md)
+4. [Форма для зарегистрированных диспетчеров;](/md-files/app_dispatcher.md)
